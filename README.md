@@ -461,7 +461,7 @@ git push origin feature/ai-minimax
 **Aarav Kumar**
 *JavaScript Developer · B.Tech CDS (2028) · Ignite Club*
 
-[![GitHub](https://img.shields.io/badge/GitHub-aarav12e-181717?style=for-the-badge&logo=github)](https://github.com/aarav12e)
+[![GitHub](https://img.shields.io/badge/GitHub-Adarshkumar823-181717?style=for-the-badge&logo=github)](https://github.com/Adarshkumar823)
 [![Play Chess](https://img.shields.io/badge/♟️_Play_Now-ChessWebsite-00C853?style=for-the-badge)](https://aarav12e.github.io/ChessWebsite/)
 
 </div>
